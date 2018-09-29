@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1538238043 source:d:\programas hechos por mi\rsa\ops.cpp
+	"ops.h"
+
+1538197233 d:\programas hechos por mi\rsa\ops.h
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<NTL/ZZ.h>
+
+1538239426 source:d:\programas hechos por mi\rsa\src\rsa.cpp
+	"rsa.h"
+
+1538196760 d:\programas hechos por mi\rsa\include\rsa.h
+	"..\ops.h"
+
+1538239430 source:d:\programas hechos por mi\rsa\main.cpp
+	<iostream>
+	"rsa.h"
+
